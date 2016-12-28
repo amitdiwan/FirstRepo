@@ -1,1 +1,3 @@
 Some text in File 2
+
+more changes to file 2
