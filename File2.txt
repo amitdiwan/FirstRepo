@@ -3,3 +3,5 @@ Some text in File 2
 more changes to file 2
 
 make more changes here
+
+stash changes here
